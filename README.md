@@ -9,5 +9,6 @@ kaggle의 'Amazon-fine-food-reviews' 데이터를 활용한 Abstractive Summary�
 한국어 리뷰들을 통해 생성요약 모델 만들기
 
 # 사용한 데이터셋
+https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 # Reference
